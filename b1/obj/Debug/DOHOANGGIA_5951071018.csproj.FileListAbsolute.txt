@@ -1,0 +1,14 @@
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\bin\Debug\b1.exe.config
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\bin\Debug\b1.exe
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\bin\Debug\b1.pdb
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\bin\Debug\MetroFramework.Design.dll
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\bin\Debug\MetroFramework.dll
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\bin\Debug\MetroFramework.Fonts.dll
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\DOHOANGGIA_5951071018.csprojAssemblyReference.cache
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\b1.Form1.resources
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\b1.Properties.Resources.resources
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\DOHOANGGIA_5951071018.csproj.GenerateResource.cache
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\DOHOANGGIA_5951071018.csproj.CoreCompileInputs.cache
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\DOHOANGGIA_5951071018.csproj.CopyComplete
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\b1.exe
+D:\gia\lap trinh api\thuc hanh buoi 1\b1\b1\obj\Debug\b1.pdb
